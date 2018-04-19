@@ -15,6 +15,10 @@ This varies quite a bit based on the language and framework your app uses, along
 
 [Local Git Deployment to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-deploy-local-git)
 
+###Going deeper...
+
+[Here's](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet) another tutorial on deploying an ASP.NET web app with Azure. It's worth noting that if you complete the folling tutorial, you'll also implement a SQL Database!
+
 <aside class="aside-note" markdown="1">
 If your project is not a Java or C# project, consult an instructor or your mentor for guidance on hosting and deployment.
 </aside>
